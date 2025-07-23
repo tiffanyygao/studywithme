@@ -13,3 +13,4 @@ A few features of our project include:
 - Customizable Background
 
 Check out our YouTube video for a demo: https://youtu.be/dDobvO6N1rQ !
+Also, check out our deployed site: [https://mellifluous-gingersnap-77a27c.netlify.app/](url) !
